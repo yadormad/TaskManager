@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcb4c</color>
+    <color name="colorPrimaryDark">#65471b</color>
+    <color name="colorAccent">#f19020</color>
+    <color name="colorBlock">#f2dfcd</color>
+
+    <color name="criticalPriority">#e72210</color>
+    <color name="majorPriority">#efdc0c</color>
+    <color name="normalPriority">#77e20b</color>
+    <color name="lowPriority">#0bb0e2</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

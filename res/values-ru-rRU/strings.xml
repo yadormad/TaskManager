@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список задач</string>
+    <string name="title_activity_splash_screen">Загрузка</string>
+    <string name="title_activity_main">Список задач</string>
+    <string name="task_new_title">Заголовок</string>
+    <string name="task_new_message">Текст</string>
+    <string name="task_new_time">Напоминание</string>
+    <string name="task_new_add_button">Добавить</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="pref_header_general">Общие</string>
+    <string name="action_settings">Настройки</string>
+    <string name="priority_major">Важные</string>
+    <string name="priority_normal">Обычные</string>
+    <string name="priority_low">Неважные</string>
+    <string name="nav_share">Поделиться</string>
+    <string name="priority_critical">Критические</string>
+    <string name="nav_send">Отправить</string>
+    <string name="priority">Приоритет</string>
+    <string name="nav_communicate">Соединение</string>
+    <string name="nav_header_desc">Заголовок навигации</string>
+    <string name="pref_title_display_name">Отображаемое имя</string>
+    <string name="pref_title_social_recommendations">Включить рекомендации из соцсетей</string>
+    <string name="about_title">О программе</string>
+    <string name="pref_ringtone_silent">Беззвучный</string>
+    <string name="pref_title_vibrate">Вибро</string>
+    <string name="new_task_date_hint">дд/мм/гг</string>
+    <string name="new_task_time_hint">чч:мм</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_about">О программе</string>
+    <string name="pref_header_notifications">Уведомления</string>
+    <string name="pref_title_new_message_notifications">Уведомления о новом сообщении</string>
+    <string name="pref_title_ringtone">Мелодия</string>
+    <string name="pref_title_add_friends_to_messages">Добавить друга в сообщения</string>
+    <string name="pref_title_sync_frequency">Периодичность синхронизации</string>
+    <string name="pref_title_system_sync_settings">Системные настройки синхронизации</string>
+    <string name="author1" translatable="false">Титаев Олег</string>
+    <string name="author2">Мятлев Евгений</string>
+    <string name="version_about" translatable="false">Список Задач v0.001</string>
+    <string name="title_activity_about">О программе</string>
+    <string name="summary_first_day_of_the_week">Введите первый день недели</string>
+    <string name="title_first_day_of_the_week">Первый день недели</string>
+    <string name="summary_night_mode">Привенить ночной режим</string>
+    <string name="title_night_mode">Ночной режим</string>
+    <string name="title_general_preference_group">Глобальные</string>
+    <string name="title_time_preference_group">Время для уведомлений по умолчанию</string>
+    <string name="title_morning_notificetion_time">Утро</string>
+    <string name="title_afternoon_notificetion_time">Обед</string>
+    <string name="title_evening_notificetion_time">Вечер</string>
+</resources>

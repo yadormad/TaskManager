@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/title_general_preference_group">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="@string/key_night_mode"
+            android:summary="@string/summary_night_mode"
+            android:title="@string/title_night_mode" />
+
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/title_first_day_of_the_week"
+            android:entries="@array/pref_first_day_of_the_week"
+            android:entryValues="@array/pref_first_day_of_the_week"
+            android:key="@string/pref_first_day_of_the_week"
+            android:summary="@string/summary_first_day_of_the_week"
+            android:title="@string/title_first_day_of_the_week" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/title_time_preference_group">
+
+        <com.example.yador.learn1.TimePreference
+            android:key="@string/pref_morning_notificetion_time"
+            android:title="@string/title_morning_notificetion_time" />
+        <com.example.yador.learn1.TimePreference
+            android:key="@string/pref_afternoon_notificetion_time"
+            android:title="@string/title_afternoon_notificetion_time" />
+        <com.example.yador.learn1.TimePreference
+            android:key="@string/pref_evening_notificetion_time"
+            android:title="@string/title_evening_notificetion_time" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

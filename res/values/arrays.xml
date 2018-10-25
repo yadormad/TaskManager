@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_first_day_of_the_week">
+        <item>Monday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

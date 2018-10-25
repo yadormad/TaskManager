@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Learn1</string>
+
+    <string name="title_activity_splash_screen">Task Manager is loading…</string>
+    <string name="title_activity_main">Task Manager</string>
+    <string name="task_new_title">Title</string>
+    <string name="task_new_message">Message</string>
+    <string name="task_new_time">Reminder</string>
+    <string name="task_new_add_button">Add</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+
+    <string name="pref_title_display_name">Display name</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="new_task_date_hint">dd/mm/yy</string>
+    <string name="new_task_time_hint">hh:mm</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_about">About</string>
+    <string name="title_activity_side_bar">SideBarActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="author1">Titaev O</string>
+    <string name="author2">Myatlev E</string>
+    <string name="priority_critical">Critical</string>
+    <string name="priority_major">Major</string>
+    <string name="priority_normal">Normal</string>
+    <string name="priority_low">Low</string>
+    <string name="nav_communicate">Communicate</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_send">Send</string>
+    <string name="priority">Priority</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_title">About</string>
+    <string name="version_about">Task Manager v0.001</string>
+    <string name="authors_about" translatable="false">by Oleg Titaev and Evgeni Myatlev</string>
+    <string name="pref_first_day_of_the_week" translatable="false">pref_first_day_of_the_week</string>
+    <string name="title_first_day_of_the_week">First day of the week</string>
+    <string name="summary_first_day_of_the_week">Enter first day of the week</string>
+    <string name="key_night_mode" translatable="false">key_night_mode</string>
+    <string name="summary_night_mode">Apply night mode</string>
+    <string name="title_night_mode">Night mode</string>
+    <string name="title_general_preference_group">General</string>
+    <string name="title_time_preference_group">Default time for notifications</string>
+    <string name="pref_morning_notificetion_time" translatable="false">pref_morning_notificetion_time</string>
+    <string name="title_morning_notificetion_time">Morning</string>
+    <string name="pref_afternoon_notificetion_time" translatable="false">pref_afternoon_notificetion_time</string>
+    <string name="title_afternoon_notificetion_time">Afternoon</string>
+    <string name="pref_evening_notificetion_time" translatable="false">pref_evening_notificetion_time</string>
+    <string name="title_evening_notificetion_time">Evening</string>
+</resources>
